@@ -1,9 +1,9 @@
 /* Definição das variáveis do CSS */
 :root {
-    --primary-color: rgb(161, 66, 66);
-    --secondary-color: rgb(229, 255, 0);
-    --tertiary-color: rgb(229, 255, 0);
-    --back-color: rgb(114, 26, 26);
+    --primary-color: rgb(42, 158, 52);
+    --secondary-color: rgb(0, 0, 0);
+    --tertiary-color: rgb(0, 0, 0);
+    --back-color: rgb(117, 4, 4);
 }
 /* Resetar as configurações do navegador */
 * {
@@ -34,7 +34,6 @@ main {
     margin-bottom: 50px;
     margin-top: 50px;
     text-align: center;
-
 }
 
 #red {
@@ -59,4 +58,12 @@ header {
 figure img {
     height: 400px; 
     width: 500px;
+}
+
+figcaption {
+    height: 250px;
+}
+h1 {
+    
+    
 }
